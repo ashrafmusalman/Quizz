@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="quizz">Quizz</string>
+    <string name="isn_t_life_is_a_collection_of_weired_quizzes_with_n_no_answers_to_half_the_questions">Isn\'t life is a collection of weired Quizzes with \n no answers to half the questions?</string>
+    <string name="welcome_to_quizz_master">Welcome To Quizz Master</string>
+    <string name="get_started">Get Started</string>
+    <string name="please_login_to_continue_using_the_app">Please login to continue using the app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? SignUp</string>
+    <string name="already_have_an_account_login">Already have an account ? Login</string>
+    <string name="a_odisha">A : Odisha</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="submit">SUBMIT</string>
+</resources>

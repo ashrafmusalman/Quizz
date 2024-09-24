@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/follow"
+        android:title="Follow"
+        android:icon="@drawable/follow"
+
+
+        />
+
+
+    <item
+        android:id="@+id/RateUs"
+        android:title="Rate Us"
+        android:icon="@drawable/star"
+
+        />
+
+
+
+
+    </group>
+    </menu>

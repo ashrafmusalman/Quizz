@@ -1,0 +1,7 @@
+<!-- res/drawable/edittext_default.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorEditTextBgColor" />
+    <corners android:radius="5dp" />
+    <size android:height="40dp" />
+    <padding android:bottom="10dp" android:left="30dp" android:right="10dp" android:top="10dp"/>
+</shape>

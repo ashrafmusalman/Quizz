@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.App.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set the background color for the splash screen -->
+        <item name="windowSplashScreenBackground">@color/colorPrimary</item>
+
+        <item name="postSplashScreenTheme">@style/Base.Theme.Quizz</item>
+    </style>
+
+
+
+
+</resources>
